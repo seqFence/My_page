@@ -1,0 +1,15 @@
+.hero{
+    height: 10%;
+    width: 100%;
+}
+.hero h2, p{
+    display: inline-block;
+}
+header{
+    background-color: #1f2937;
+}
+header h1{
+    color: #f9faf8;
+    font-style: extra-bold;
+    font-size: 48px;
+}
