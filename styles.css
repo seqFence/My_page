@@ -1,15 +1,18 @@
-.hero{
-    height: 10%;
-    width: 100%;
-}
-.hero h2, p{
+.logo, .logo_text{
     display: inline-block;
+    white-space:nowrap;
+}
+.logo{
+    width: 60%;
+    float: left;
+    padding-left: 100px;
+    font-size: 24px;
+    color: #f9faf8;
+}
+.logo_text {
+    width: 20%;
+    text-align: right;
 }
 header{
     background-color: #1f2937;
-}
-header h1{
-    color: #f9faf8;
-    font-style: extra-bold;
-    font-size: 48px;
 }
