@@ -83,10 +83,14 @@ a{
 .one{
     background-color: antiquewhite;
     height: 500px;
+    margin: 0px;
+    padding: 0px;
 }
 .two{
     height: 400px;
     background-color: #e5e7eb;
+    margin: 0px;
+    padding: 0px;
 }
 .quote{
     font-size: 36px;
@@ -134,4 +138,8 @@ footer{
 .copy{
     text-align: center;
     padding-top: 40px;
+}
+html, body {
+    margin: 0;
+    padding: 0;
 }
